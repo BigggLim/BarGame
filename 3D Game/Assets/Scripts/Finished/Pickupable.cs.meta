@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 22d113506334f4843b9c3dd620a4c7c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dest1: {instanceID: 0}
+  - dest2: {instanceID: 0}
+  - dest3: {instanceID: 0}
+  - coffee: {fileID: 3838915893100702192, guid: ea2254ccc21901c4da3d552b6a2e9a62, type: 3}
+  - rootBeer: {fileID: 1705039917660093888, guid: 705af52d4b6bb1f4ca2436c27540cff9, type: 3}
+  - cosmo: {fileID: 2754326197366186965, guid: 2e7316e50588e1745b0d6eec30e8dbf6, type: 3}
+  - oldF: {fileID: 8696800399108596847, guid: f18593f4c77ed70428d39ab67a558081, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
